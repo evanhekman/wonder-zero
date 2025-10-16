@@ -12,3 +12,8 @@ DISCLAIMER: this is for educational purposes only; i do not own seven wonders an
 - test the model by playing with it
 - collect some data around how the model behaves
 - analyze the data to observe trends that can be exploted for individual play
+
+### practices
+- enums and enum values in ALL_CAPS
+- classes in PascalCase
+- variables and functions in snake_case
