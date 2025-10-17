@@ -20,6 +20,7 @@ enum AGE {
     FIRST,
     SECOND,
     THIRD,
+    SCORING,
 };
 
 enum COLOR {

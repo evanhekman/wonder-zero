@@ -14,4 +14,6 @@ class GameState {
         int turn;
         std::vector<Player> players;
         std::vector<std::vector<Card>> hands;
+
+        
 };
